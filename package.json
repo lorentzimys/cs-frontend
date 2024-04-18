@@ -1,0 +1,26 @@
+{
+  "name": "cs-frontend",
+  "version": "1.0.0",
+  "description": "CS Frontend repo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorentzimys/cs-frontend.git"
+  },
+  "author": "Aleksey Stepanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorentzimys/cs-frontend/issues"
+  },
+  "homepage": "https://github.com/lorentzimys/cs-frontend#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.0"
+  }
+}
